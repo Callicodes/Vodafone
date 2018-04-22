@@ -23,8 +23,8 @@ Install $project by running:
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Issue Tracker: https://github.com/Callicodes/Vodafone
+- Source Code: https://github.com/Callicodes/Vodafone
 
 Support
 -------
